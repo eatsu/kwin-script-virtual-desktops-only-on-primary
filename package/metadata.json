@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "wsdfhjxc"
+            },
+            {
+                "Email": "mkrmdk@gmail.com",
+                "Name": "eatsu"
+            }
+        ],
+        "BugReportUrl": "https://github.com/eatsu/kwin-script-virtual-desktops-only-on-primary/issues",
+        "Description": "Enables virtual desktop functionality only on the primary monitor",
+        "Icon": "preferences-desktop-virtual",
+        "Id": "virtual-desktops-only-on-primary",
+        "License": "GPLv3",
+        "Name": "Virtual Desktops Only on Primary",
+        "Version": "1.0.0",
+        "Website": "https://github.com/eatsu/kwin-script-virtual-desktops-only-on-primary"
+    },
+    "X-Plasma-API": "javascript"
+}
