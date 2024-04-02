@@ -6,7 +6,8 @@ adapted for Plasma 6.
 This enables virtual desktop functionality only on the primary monitor.
 
 > [!IMPORTANT]
-> To make it work properly, please enable this **on your primary monitor**.
+> When manually enabling this, please do it **on your primary monitor**.
+> Otherwise this determines the secondary monitor as the primary monitor.
 
 ## Installation
 
