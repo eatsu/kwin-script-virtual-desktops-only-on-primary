@@ -13,10 +13,11 @@ This enables virtual desktop functionality only on the primary monitor.
 
 ### From GUI
 
+0. Download a `.kwinscript` file from the [Releases] page.
 1. Open "System Settings".
 2. Select "KWin Scripts" sidebar item.
-3. Press "Get New…" button.
-4. Search for "Virtual Desktops Only on Primary" and press "Install" button.
+3. Press "Install from File…" button.
+4. Select the downloaded `.kwinscript` file.
 5. Enable it **on your primary monitor**.
 
 ### From the source
@@ -37,3 +38,4 @@ GPLv3
 
 [wsdfhjxc]: https://github.com/wsdfhjxc
 [origin]: https://github.com/wsdfhjxc/kwin-scripts/tree/master/virtual-desktops-only-on-primary
+[Releases]: https://github.com/eatsu/kwin-script-virtual-desktops-only-on-primary/releases
